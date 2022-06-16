@@ -3,7 +3,7 @@ int main ()
 {
     int arr[] = {10,20,30,40,50};
     int max = arr[0];
-    int i, j=6, loc=1;
+    int i, j=5, loc=1;
     printf ("Given Array : \n");
     for (i=0; i<j; i++)
     {
