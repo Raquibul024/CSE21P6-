@@ -1,3 +1,4 @@
+
 #include<stdio.h>
 char str[50], pat[20], rep[20], nstr[50];
 int i, j, k, c, m, flag=0;
